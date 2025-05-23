@@ -48,10 +48,8 @@ The analysis revealed that while foundational skills like **SQL** and **Excel** 
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/data-analyst-job-analysis.git
+    git clone https://github.com/shwezin-coder/Data-Analyst-Job-Analysis.git
     ```
-
-    (Replace `yourusername` and `data-analyst-job-analysis` with your actual GitHub details)
 
 2.  **Review the Code**: Navigate through the Python scripts to understand the data cleaning, feature engineering (including NLTK and one-hot encoding), and preprocessing steps.
 
